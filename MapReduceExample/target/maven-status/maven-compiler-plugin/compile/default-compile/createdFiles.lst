@@ -1,0 +1,3 @@
+com\ae\mr\WordCount$MapForWordCount.class
+com\ae\mr\WordCount$ReduceForWordCount.class
+com\ae\mr\WordCount.class
